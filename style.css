@@ -95,7 +95,7 @@ nav span {
 
 .main {
     height: 500px;
-    padding: 50px 180px 0 180px;
+    padding: 50px 100px 0 50px;
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -103,8 +103,7 @@ nav span {
 
 
 .doit-part {
-    height: 480px;
-    width: 300px;
+    height: 450px;
     display: flex;
     flex-direction: column;
 }
@@ -130,7 +129,7 @@ nav span {
 }
 
 .image-div img {
-    height: 500px;
+    height: 450px;
     width: 700px;
     margin-top: 30px;
 }
@@ -190,7 +189,7 @@ nav span {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
-    padding-left: 70px;
+    padding-left: 20px;
 }
 
 #slide-text {
@@ -209,7 +208,7 @@ nav span {
 
 .second-main div {
     height: 140px;
-    width: 250px;
+    width: 220px;
     border-radius: 30px 30px 20px 30px;
     background-color: white;
     display: flex;
@@ -278,8 +277,8 @@ nav span {
 .text button {
     position: relative;
     padding: 0px 10px;
-    top: 15px;
-    left: 90px;
+    top: 0px;
+    left: 60px;
     font-size: 25px;
     border: none;
     border-radius: 7px 7px 20px 7px;
@@ -348,7 +347,7 @@ nav span {
     }
 
     .second-main {
-        height: 700px;
+        height: 425px;
         padding-left: 0;
     }
 
